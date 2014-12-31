@@ -1,6 +1,6 @@
 # LazyDown
 
-LazyDown glues the following open source components
+LazyDown glues together the following open source components
 
 * [redcarpet](https://github.com/vmg/redcarpet)
 * [pygments.rb](https://github.com/tmm1/pygments.rb)
