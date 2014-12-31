@@ -30,3 +30,4 @@ md = Redcarpet::Markdown.new(LazyDownRender,
                              :xhtml => true,
                              :with_toc_data => true)
 puts md.render(STDIN.read)
+

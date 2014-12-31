@@ -8,8 +8,9 @@ LazyDown glues together the following open source components
 
 so I can preview (offline) my GitHub README files before I push them to GitHub.
 
-```shell
+```bash
 $ bundle # to install gems
-$ ruby lazydown.rb < /path/to/markdown/file.md > /path/to/preview/file.html
-$ open /path/to/preview/file.html
+$ ruby lazydown.rb < Readme.md > Readme.html
+$ open Readme.html
 ```
+
